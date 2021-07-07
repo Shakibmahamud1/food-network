@@ -1,49 +1,47 @@
-body{
-    font-family: 'Noto Sans', sans-serif;
-margin: 10px 10px 10px 10px;
-    
+body {
+  font-family: "Noto Sans", sans-serif;
+  margin: 10px 10px 10px 10px;
 }
-h1{
-    font-size:50px;
-    
+h1 {
+  font-size: 50px;
 }
-.blue-color{
-    color:blue;
+section {
+  margin: 60px 0;
 }
-.olik_good{
-    display: flex;
-    width:80%;
+.blue-color {
+  color: blue;
+}
+.olik_good {
+  display: flex;
+  width: 80%;
+}
+.top-banner {
+  background-image: url(images/shapes/Frame58.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
 }
 img {
- height: 450px;
- width: 450px;
+  height: 450px;
+  width: 450px;
 }
-.helf-width1{
-    width:48%;
-    padding-right:5%;
+.half-width {
+  width: 45%;
+  float: left;
 }
-.helf-width{
-    width:48%;
+#good {
+  padding: 10px;
+  background-color: rgb(24, 28, 90);
+  border-radius: 20px 20px 20px 20px;
+  border: none;
 }
-#good{
-    padding: 10px;
-    background-color: rgb(24, 28, 90);
-    border-radius:20px 20px 20px 20px; 
-    border: none;
-    
-
+.link-button {
+  margin-top: 20px;
+  background-image: linear-gradient(orange, tomato);
+  padding: 15px 40px;
+  color: white;
+  text-decoration: none;
+  border-radius: 20px;
+  box-shadow: 5px 5px 15px grey;
+  display: inline-block;
 }
-.h2{
-
-}
-.linkbaton{
-    background-image:linear-gradient(blue,orange);
-    padding: 15px,40px;
-color:white;
-text-decoration: none;
-border-radius:20px;
-box-shadow: 5px 5px 15px gray;
-}
-
-
-
